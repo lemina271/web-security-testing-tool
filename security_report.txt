@@ -1,0 +1,14 @@
+=== Web Application Security Testing Tool ===
+Target: http://testphp.vulnweb.com/search.php
+
+Parameter: search
+
+
+[+] Testing SQL Injection...
+[-] No SQL Injection detected.
+
+[+] Testing XSS...
+[-] No XSS detected.
+
+Scan completed!
+
